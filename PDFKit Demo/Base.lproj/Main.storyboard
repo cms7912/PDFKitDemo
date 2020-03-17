@@ -48,6 +48,10 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
+                    <connections>
+                        <outlet property="pdfThumbnailView" destination="S3b-lC-d9g" id="h0w-7O-wqe"/>
+                        <outlet property="pdfView" destination="y6T-0k-2gW" id="cp2-9M-6nt"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>

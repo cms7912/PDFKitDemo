@@ -26,7 +26,7 @@ class ViewController: UIViewController {
 		super.viewDidLoad()
 		// 'func viewDidLoad' runs when 'ViewController' first loads
 
-		
+
 		// 2) Set path from which to load a PDF
 
 
@@ -34,6 +34,7 @@ class ViewController: UIViewController {
 
 
 		// 4) Connect thumbnail view to the pdfView
+
 
 	}
 

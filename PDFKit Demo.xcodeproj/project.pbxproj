@@ -16,6 +16,7 @@
 		CB6B95E82421016C00F3CC73 /* parentaldisclosureconsent.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CB6B95E52421016B00F3CC73 /* parentaldisclosureconsent.pdf */; };
 		CB6B95E92421016C00F3CC73 /* Data_and_Privacy_Overview_for_Schools.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CB6B95E62421016B00F3CC73 /* Data_and_Privacy_Overview_for_Schools.pdf */; };
 		CB6B95EA2421016C00F3CC73 /* Location_Services_White_Paper_Nov_2019.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CB6B95E72421016B00F3CC73 /* Location_Services_White_Paper_Nov_2019.pdf */; };
+		CB6B95F224213AE700F3CC73 /* ViewController completed.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB6B95F124213AE700F3CC73 /* ViewController completed.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		CB6B95E52421016B00F3CC73 /* parentaldisclosureconsent.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = parentaldisclosureconsent.pdf; sourceTree = "<group>"; };
 		CB6B95E62421016B00F3CC73 /* Data_and_Privacy_Overview_for_Schools.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Data_and_Privacy_Overview_for_Schools.pdf; sourceTree = "<group>"; };
 		CB6B95E72421016B00F3CC73 /* Location_Services_White_Paper_Nov_2019.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Location_Services_White_Paper_Nov_2019.pdf; sourceTree = "<group>"; };
+		CB6B95F124213AE700F3CC73 /* ViewController completed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ViewController completed.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				CB6B95E62421016B00F3CC73 /* Data_and_Privacy_Overview_for_Schools.pdf */,
 				CB6B95E72421016B00F3CC73 /* Location_Services_White_Paper_Nov_2019.pdf */,
 				CB6B95E52421016B00F3CC73 /* parentaldisclosureconsent.pdf */,
+				CB6B95F124213AE700F3CC73 /* ViewController completed.swift */,
 			);
 			path = "PDFKit Demo";
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CB6B95D62420719400F3CC73 /* ViewController.swift in Sources */,
+				CB6B95F224213AE700F3CC73 /* ViewController completed.swift in Sources */,
 				CB6B95D22420719400F3CC73 /* AppDelegate.swift in Sources */,
 				CB6B95D42420719400F3CC73 /* SceneDelegate.swift in Sources */,
 			);
