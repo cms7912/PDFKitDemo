@@ -13,6 +13,9 @@
 		CB6B95D92420719400F3CC73 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB6B95D72420719400F3CC73 /* Main.storyboard */; };
 		CB6B95DB2420719700F3CC73 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CB6B95DA2420719700F3CC73 /* Assets.xcassets */; };
 		CB6B95DE2420719700F3CC73 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB6B95DC2420719700F3CC73 /* LaunchScreen.storyboard */; };
+		CB6B95E82421016C00F3CC73 /* parentaldisclosureconsent.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CB6B95E52421016B00F3CC73 /* parentaldisclosureconsent.pdf */; };
+		CB6B95E92421016C00F3CC73 /* Data_and_Privacy_Overview_for_Schools.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CB6B95E62421016B00F3CC73 /* Data_and_Privacy_Overview_for_Schools.pdf */; };
+		CB6B95EA2421016C00F3CC73 /* Location_Services_White_Paper_Nov_2019.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CB6B95E72421016B00F3CC73 /* Location_Services_White_Paper_Nov_2019.pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		CB6B95DA2420719700F3CC73 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CB6B95DD2420719700F3CC73 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CB6B95DF2420719700F3CC73 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CB6B95E52421016B00F3CC73 /* parentaldisclosureconsent.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = parentaldisclosureconsent.pdf; sourceTree = "<group>"; };
+		CB6B95E62421016B00F3CC73 /* Data_and_Privacy_Overview_for_Schools.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Data_and_Privacy_Overview_for_Schools.pdf; sourceTree = "<group>"; };
+		CB6B95E72421016B00F3CC73 /* Location_Services_White_Paper_Nov_2019.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Location_Services_White_Paper_Nov_2019.pdf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +69,9 @@
 				CB6B95DA2420719700F3CC73 /* Assets.xcassets */,
 				CB6B95DC2420719700F3CC73 /* LaunchScreen.storyboard */,
 				CB6B95DF2420719700F3CC73 /* Info.plist */,
+				CB6B95E62421016B00F3CC73 /* Data_and_Privacy_Overview_for_Schools.pdf */,
+				CB6B95E72421016B00F3CC73 /* Location_Services_White_Paper_Nov_2019.pdf */,
+				CB6B95E52421016B00F3CC73 /* parentaldisclosureconsent.pdf */,
 			);
 			path = "PDFKit Demo";
 			sourceTree = "<group>";
@@ -127,7 +136,10 @@
 			files = (
 				CB6B95DE2420719700F3CC73 /* LaunchScreen.storyboard in Resources */,
 				CB6B95DB2420719700F3CC73 /* Assets.xcassets in Resources */,
+				CB6B95E92421016C00F3CC73 /* Data_and_Privacy_Overview_for_Schools.pdf in Resources */,
 				CB6B95D92420719400F3CC73 /* Main.storyboard in Resources */,
+				CB6B95EA2421016C00F3CC73 /* Location_Services_White_Paper_Nov_2019.pdf in Resources */,
+				CB6B95E82421016C00F3CC73 /* parentaldisclosureconsent.pdf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -286,7 +298,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = "PDFKit Demo/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -304,7 +316,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = "PDFKit Demo/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

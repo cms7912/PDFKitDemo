@@ -6,8 +6,13 @@
 //  Copyright © 2020 CMRS Ventures. All rights reserved.
 //
 
+// PDF source URLs for use as examples:
+// https://www.apple.com/privacy/docs/Location_Services_White_Paper_Nov_2019.pdf
+// https://www.apple.com/privacy/parentaldisclosureconsent.pdf
+// https://www.apple.com/education/docs/Data_and_Privacy_Overview_for_Schools.pdf
+
+
 import UIKit
-import PDFKit
 
 // 1) import the 'PDFKit' framework
 
@@ -21,6 +26,7 @@ class ViewController: UIViewController {
 		super.viewDidLoad()
 		// 'func viewDidLoad' runs when 'ViewController' first loads
 
+		
 		// 2) Set path from which to load a PDF
 
 
